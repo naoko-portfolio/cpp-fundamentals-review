@@ -22,11 +22,14 @@ The program allows the user to:
 - Basic arithmetic calculations
 
 ## Example Output
-Example 1 - Subtotal is under $100.
-<img width="449" height="172" alt="output1" src="https://github.com/user-attachments/assets/6e4eeeb6-98d6-4813-9031-0072683ff960" />
 
-Example 2 - Subtotal is above $100.
-<img width="397" height="194" alt="output2" src="https://github.com/user-attachments/assets/b67e246d-83db-466f-bbfc-577f812789da" />
+Example 1 - Subtotal is under $100.
+
+<img width="500" alt="output1" src="https://github.com/user-attachments/assets/6e4eeeb6-98d6-4813-9031-0072683ff960" />
+
+Example 2 - Subtotal is $100 or more.
+
+<img width="500" alt="output2" src="https://github.com/user-attachments/assets/b67e246d-83db-466f-bbfc-577f812789da" />
 
 
 
