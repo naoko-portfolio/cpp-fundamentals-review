@@ -39,6 +39,12 @@ Example 2 - Subtotal is $100 or more.
 - How to calculate a running total using a variable.
 - How to use `if / else` statements to apply discounts and shipping rules.
 
+## Mistakes I Fixed
+
+- Forgot to initialize `subtotal`, which caused incorrect calculations.
+- Used `<=` instead of `<` in the `for` loop condition.
+- Accidentally wrote `price += subtotal` instead of `subtotal += price`, which produced incorrect results.
+
 **Author:** Naoko Marin  
 **Course:** Self-study C++ Fundamentals Review
 
