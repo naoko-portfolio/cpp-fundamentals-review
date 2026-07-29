@@ -22,19 +22,13 @@ The program allows the user to:
 - Basic arithmetic calculations
 
 ## Example Output
+Example 1 - Subtotal is under $100.
+<img width="449" height="172" alt="output1" src="https://github.com/user-attachments/assets/6e4eeeb6-98d6-4813-9031-0072683ff960" />
 
-```text
-How many items do you have: 3
+Example 2 - Subtotal is above $100.
+<img width="397" height="194" alt="output2" src="https://github.com/user-attachments/assets/b67e246d-83db-466f-bbfc-577f812789da" />
 
-Enter price for item 1: $5
-Enter price for item 2: $90
-Enter price for item 3: $25
 
-Subtotal: $120
-Discount: $12
-Shipping: $0
-Final total: $108
-```
 
 ## What I Learned
 
