@@ -1,1 +1,51 @@
-#readme
+# Week01 - Shopping Cart
+
+## Overview
+
+This is my Week 01 C++ practice project.
+
+The program allows the user to:
+- Enter the number of items.
+- Enter the price of each item.
+- Calculate the subtotal.
+- Apply a 10% discount if the subtotal is $100 or more.
+- Apply free shipping if the total after the discount is $100 or more.
+- Display the final total.
+
+## Concepts Practiced
+
+- Variables
+- User input (`cin`)
+- Output (`cout`)
+- `for` loops
+- `if / else`
+- Basic arithmetic calculations
+
+## Example Output
+
+Example 1 - Subtotal is under $100.
+
+<img width="500" alt="output1" src="https://github.com/user-attachments/assets/6e4eeeb6-98d6-4813-9031-0072683ff960" />
+
+Example 2 - Subtotal is $100 or more.
+
+<img width="500" alt="output2" src="https://github.com/user-attachments/assets/b67e246d-83db-466f-bbfc-577f812789da" />
+
+
+
+## What I Learned
+
+- How to use a `for` loop to process multiple inputs.
+- How to calculate a running total using a variable.
+- How to use `if / else` statements to apply discounts and shipping rules.
+
+## Mistakes I Fixed
+
+- Forgot to initialize `subtotal`, which caused incorrect calculations.
+- Used `<=` instead of `<` in the `for` loop condition.
+- Accidentally wrote `price += subtotal` instead of `subtotal += price`, which produced incorrect results.
+
+**Author:** Naoko Marin  
+**Course:** Self-study C++ Fundamentals Review
+
+
