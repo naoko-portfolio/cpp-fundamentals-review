@@ -24,7 +24,7 @@ The program allows the user to:
 
 ## Sample Output
 
-<img width="169" height="126" alt="output" src="https://github.com/user-attachments/assets/4ebd0cfe-67ce-4001-b130-dac23e249d4b" />
+<img width="500" alt="output" src="https://github.com/user-attachments/assets/4ebd0cfe-67ce-4001-b130-dac23e249d4b" />
 
 
 ## What I Learned
