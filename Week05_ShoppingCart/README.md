@@ -59,3 +59,7 @@ The most important thing I learned in this project was how two classes can work 
 I also learned that private data cannot be accessed directly from another class, so a getter such as `getPrice()` can be used to access the value.
 
 This project helped me better understand the relationship between classes and objects.
+
+
+Author: Naoko Marin
+Course: Self-study C++ Fundamentals Review
