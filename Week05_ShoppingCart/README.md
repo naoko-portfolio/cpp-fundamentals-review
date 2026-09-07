@@ -34,7 +34,7 @@ The program also checks whether a product has a valid price before adding it to 
 
 ## Example Output
 
-<img width="600" height="153" alt="output" src="https://github.com/user-attachments/assets/04fefcd1-ee79-428e-a4c9-a0d4ebbb7c55" />
+<img width="600" alt="output" src="https://github.com/user-attachments/assets/04fefcd1-ee79-428e-a4c9-a0d4ebbb7c55" />
 
 ## Mistakes / Challenges
 
